@@ -6,4 +6,4 @@ If you have more questions, please contact me at zyqdzkd@outlook.com, thank you 
 
 `zyqdzkd.github.io`
 
-Credict by jirvin16.github.io
+Acknowledgement: This website uses the website design and template by Martin Saveski from https://github.com/msaveski/www_personal and Jeremy Irvin from https://github.com/jirvin16/jirvin16.github.io
